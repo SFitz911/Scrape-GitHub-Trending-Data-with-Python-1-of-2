@@ -1,8 +1,8 @@
-# Dev Tools Inspect Tutorial
+# GitHub Trending Scraper
 
-Learn how to open and use browser developer tools (Inspect) for debugging and development.
+This project scrapes GitHub Trending repositories, enriches the data with the GitHub REST API, cleans the results, and exports a structured dataset.
 
-## ?? Demo Video
+## Demo Video
 
-?? https://gateway.pinata.cloud/ipfs/bafybeig7jowqy3aw6hxnqfxk5no7vusi5hyr7hi65hpq7aeawm4pnekspi
+https://youtu.be/TwRWmNcwt9o
 
